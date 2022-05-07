@@ -2,6 +2,7 @@ Th eRainbow
 Pink
 Orange
 magenta
+Green
 Blue
 Red
 These are colors of Rainbow
