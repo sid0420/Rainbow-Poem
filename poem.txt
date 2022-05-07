@@ -2,6 +2,7 @@ The Rainbow and The Unicorn
 Pink
 Orange
 magenta
+Indigo
 Green
 Unicorn
 Blue
