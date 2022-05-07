@@ -3,6 +3,7 @@ Pink
 Orange
 magenta
 Green
+Unicorn
 Blue
 Red
 These are colors of Rainbow
